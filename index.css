@@ -1,0 +1,35 @@
+body{
+	font-weight:bold;
+	text-align:center;
+	background-image:url("ist.png");
+	background-repeat: no-repeat;
+}
+h1{
+	color:goldenrod;
+}
+p {
+	text-align: center;
+	font-size: 20px;
+	font-weight: normal;
+}
+#one{
+	text-align:center;
+	font-weight: bold;
+}
+img {
+	height: fit-content;
+	width: fit-content;
+	margin: 10px;
+	padding: 10px;
+}
+button{
+	background-color: aqua;
+	margin: 10px;
+	padding: 10px;
+}
+#num-el{
+	text-align: center;
+	color: chartreuse;
+	font-weight: bold;
+	font-size: 20px;
+}
